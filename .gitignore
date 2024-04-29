@@ -1,0 +1,8 @@
+public/
+node_modules/
+.env
+package-lock.json
+package.json
+users.json
+src/views/firework.ejs
+src/views/float1.ejs
